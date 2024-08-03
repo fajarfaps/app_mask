@@ -1,6 +1,5 @@
-opencv-python
-tensorflow
-numpy
-pillow
-streamlit
-libgl1-mesa-glx
+opencv-python==4.10.0.84
+tensorflow==2.17.0
+numpy==2.0.1
+pillow==10.0.4
+streamlit==1.37.0
