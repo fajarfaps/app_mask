@@ -5,7 +5,7 @@ import numpy as np
 from PIL import Image
 
 # Load the trained model
-model = tf.keras.models.load_model('C:\\Users\\fajar\\si pedil\\keras_model.h5')
+model = tf.keras.models.load_model('keras_model.h5')
 
 # Define the class names
 class_names = ['WithMask', 'WithoutMask']  # Replace with your actual class names
